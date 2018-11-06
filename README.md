@@ -1,1 +1,2 @@
-# 96b-sustain-dev-box
+# 96Boards Self Sustainable Developer Station
+
