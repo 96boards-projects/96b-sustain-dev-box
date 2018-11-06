@@ -2,21 +2,21 @@
 
 ### Table of Contents
 
-- Introduction
-- Hardware
-   - Bill of Materials
-- Software
-   - CAD Software
-   - 96Boards Baseboard and Mezzanine
-- Initial Setup
-   - Preparing your box
-   - Gathering main components
-   - Download STL files
-- 3D Printing
-- Wires, switches, contacts and more...
-- Schematic review
-- Putting it all together
-- Conclusion
+- [Introduction](#introduction)
+- [Hardware](#hardware)
+   - [Bill of Materials](#bill-of-materials)
+- [Software](#software)
+   - [CAD Software](#cad-software)
+   - [96Boards Baseboard and Mezzanine](#96boards-baseboard-and-mezzanine)
+- [Initial Setup](#initial-setup)
+   - [Preparing the box](#preparing-the-box)
+   - [Gathering main components](#gathering-main-components)
+   - [Download STL files](#download-stl-files)
+- [3D Printing](#3d-printing)
+- [Wires, switches, contacts and more...](#wires-switches-contacts-and-more)
+- [Schematic review](#schematic-review)
+- [Putting it all together](#putting-it-all-together)
+- [Conclusion](#conclusion)
 
 # Introduction
 
@@ -48,7 +48,7 @@ Internet:  WiFi would be nice to have for any laptops we bring for pulling up in
 
 # Initial Setup
 
-## Preparing your box
+## Preparing the box
 
 ## Gathering main components
 
@@ -60,7 +60,7 @@ Internet:  WiFi would be nice to have for any laptops we bring for pulling up in
 
 ***
 
-# Wires, switches, contacts and more...
+# Wires switches contacts and more
 
 ***
 
