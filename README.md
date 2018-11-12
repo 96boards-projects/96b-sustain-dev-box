@@ -42,6 +42,8 @@ Internet:  WiFi would be nice to have for any laptops we bring for pulling up in
 
 ## CAD Software
 
+My CAD/CAM software of choice is Autodesk Fusion 360. I began using it simply because it has all the features I currently need and is free for hobbyists and startups. Some nice bonuses it has are built in version control, collaboration tools, and frequent updates that add new capabilities. There is also a nice tutorial section that has easy to follow videos to learn the software. It is more cloud based than I’d like, however, and often I have to wait much longer for files to download or upload, or to process, than I’d have to if everything was done locally on my machine. There are also a number of headaches associated with organization, selection, snapping, and workflows that more polished and mature CAD/CAM software don’t suffer from. But ultimately it’s hard to beat free when the software is still able to get the job done.
+
 ## 96Boards Baseboard and Mezzanine
 
 ***
@@ -59,6 +61,10 @@ Visit The [STL file download section](stl-files/) to get access to all currently
 ***
 
 # 3D Printing
+
+The 3D printer I used is the Original Prusa i3 MK3. I chose that printer because it can achieve a high enough temperature that I can use all commonly used filaments, it has a heated bed, a flexible steel plate that is magnetically secured to the bed that makes removing prints easy, the ability to continue printing after a power loss, and large variety of sensors that puts it on par with more expensive printers. I bought the kit version of the printer that comes only as parts and requires assembly and calibration before use. For $250 more I could have bought it fully assembled and calibrated, but I enjoy putting things together and I now have a much better understanding of how the printer works. Troubleshooting any issues that come up in the future will also be much easier as a result. I use Slic3r PE to generate the gcode off the STL files, as it has profiles already optimized for my printer and filament, and with it I get great results.
+
+I chose PLA to use as the filament for the prototype primarily for environmental reasons, lack of fumes, and ease of use. Knowing we’d have to print items several times as design tweaks occur often in initial design, plenty of waste is almost always a result. PLA is plant based, usually corn or sugar based, and biodegradable. It also doesn’t have any toxic fumes while printing (always check to verify the dye or additives are not toxic as well before foregoing proper ventilation) and we were stuck in a small room with it while working, and it was printing non-stop. Once design has been cemented we will switch to PETG. It has much higher temperature tolerances and is more durable and impact resistant.
 
 ***
 
