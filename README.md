@@ -28,28 +28,27 @@ Robert and David are teaming up to demonstrate two projects that are enabled by 
 
 Equipment supplied with demo:  The Mobile Developer Workstation will be entirely self contained.  Beyond that, perhaps we bring a few additional 96Boards SBC's and a few extra Raspberry Pi SoM's so people can pick up and examine them, mostly just as novelty items.
 
-Equipment to be supplied by Arm: Screen
+Power & sockets:  @Robert - how long do you expect the battery to last, I don't think we will get good charging through the solar panels indoors (unless we are near a window, ha)...Can we plug the unit directly into an electrical socket and run on regular power if need be? Other than that, maybe 2 or 3 sockets is all we need, for occasional laptop and cell phone charging.
 
-Power & sockets:  @Robert - how long do you expect the battery to last, I don't think we will get good charging through the solar panels indoors (unless we are near a window, ha)...Can we plug the unit directly into an electrical socket and run on regular power if need be?     Other than that, maybe 2 or 3 sockets is all we need, for occasional laptop and cell phone charging.
-
-Internet:  WiFi would be nice to have for any laptops we bring for pulling up info as requested by visitors, but, the demo box itself will actually be using 4G LTE, so we could survive without. 
+Internet: WiFi would be nice to have for any laptops we bring for pulling up info as requested by visitors, but, the demo box itself will actually be using 4G LTE, so we could survive without. 
 
 ## Bill of Materials
 
-- [Case]()
-- [LCD Screen]()
-- [Charge Controller]()
-- [Batteries]()
-- [Solar Panels]()
-- [Switches]()
-- [Juntions]()
-- [Wires]()
-- [Connectors]()
-- [Tools]()
-- [96Boards Base Board - Arrow DragonBoard 410c]()
-- [96Boards Mezzanine - Shiratech LTE]()
-- [3D Printer]()
-- [Fillament]()
+- [Case](https://www.homedepot.com/p/RIDGID-22-in-Pro-Organizer-Black-222571/205440492)
+- [LCD Screen](https://www.arrow.com/en/products/96boards-display-7/linksprite-technologies-inc)
+- [Charge Controller](https://www.amazon.com/gp/product/B013HK2OOE/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
+- [Batteries](https://www.amazon.com/gp/product/B00KC39BE6/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+- [Solar Panels x 2](https://www.amazon.com/gp/product/B00OZC3X1C/ref=oh_aui_detailpage_o08_s00?ie=UTF8&psc=1)
+- [Inveter](https://www.amazon.com/gp/product/B0148FOAO4/ref=oh_aui_detailpage_o07_s02?ie=UTF8&psc=1)
+- [96Boards Base Board - Arrow DragonBoard 410c](https://www.96boards.org/product/dragonboard410c/)
+- [96Boards Mezzanine - Shiratech LTE](https://www.96boards.org/product/shiratech-lte/)
+- [3D Printer](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html#)
+- [Fillament](
+https://shop.prusa3d.com/en/filament/159-pla-extrafill-gold-happens-750g.html)
+- Switches
+- Juntions
+- Wires
+- Connectors
 
 ***
 
