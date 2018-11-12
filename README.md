@@ -48,8 +48,8 @@ Internet:  WiFi would be nice to have for any laptops we bring for pulling up in
 - [Tools]()
 - [96Boards Base Board - Arrow DragonBoard 410c]()
 - [96Boards Mezzanine - Shiratech LTE]()
-- 3D Printer]()
-- Fillament]()
+- [3D Printer]()
+- [Fillament]()
 
 ***
 
@@ -65,8 +65,8 @@ My CAD/CAM software of choice is Autodesk Fusion 360. I began using it simply be
 
 The 96Boards used in this project was the [DragonBoard 410c](), which was paired with the Shiratech LTE mezzanine. 
 
-<img src="https://github.com/96boards/documentation/blob/master/consumer/dragonboard/dragonboard410c/additional-docs/images/images-board/sd/dragonboard410c-front-sd.jpg?raw=true" data-canonical-src="https://github.com/96boards/documentation/blob/master/consumer/dragonboard/dragonboard410c/additional-docs/images/images-board/sd/dragonboard410c-front-sd.jpg?raw=true" width="220" height="200" />
-<img src="https://github.com/96boards/website/blob/master/_product/mezzanine/shiratech-lte/images/shiratech-lte-front-sd.jpg?raw=true" data-canonical-src="https://github.com/96boards/website/blob/master/_product/mezzanine/shiratech-lte/images/shiratech-lte-front-sd.jpg?raw=true" width="220" height="200" />
+<img src="https://github.com/96boards/documentation/blob/master/consumer/dragonboard/dragonboard410c/additional-docs/images/images-board/sd/dragonboard410c-front-sd.jpg?raw=true" data-canonical-src="https://github.com/96boards/documentation/blob/master/consumer/dragonboard/dragonboard410c/additional-docs/images/images-board/sd/dragonboard410c-front-sd.jpg?raw=true" width="200" height="130" />
+<img src="https://github.com/96boards/website/blob/master/_product/mezzanine/shiratech-lte/images/shiratech-lte-front-sd.jpg?raw=true" data-canonical-src="https://github.com/96boards/website/blob/master/_product/mezzanine/shiratech-lte/images/shiratech-lte-front-sd.jpg?raw=true" width="200" height="130" />
 
 ***
 
