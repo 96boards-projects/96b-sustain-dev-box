@@ -36,15 +36,37 @@ Internet:  WiFi would be nice to have for any laptops we bring for pulling up in
 
 ## Bill of Materials
 
+- [Case]()
+- [LCD Screen]()
+- [Charge Controller]()
+- [Batteries]()
+- [Solar Panels]()
+- [Switches]()
+- [Juntions]()
+- [Wires]()
+- [Connectors]()
+- [Tools]()
+- [96Boards Base Board - Arrow DragonBoard 410c]()
+- [96Boards Mezzanine - Shiratech LTE]()
+- 3D Printer]()
+- Fillament]()
+
 ***
 
 # Software
+
+The 96Boards used in this project was the [DragonBoard 410c](). For the base operating system, we used the [Linaro Debian flavor of Linux]().
 
 ## CAD Software
 
 My CAD/CAM software of choice is Autodesk Fusion 360. I began using it simply because it has all the features I currently need and is free for hobbyists and startups. Some nice bonuses it has are built in version control, collaboration tools, and frequent updates that add new capabilities. There is also a nice tutorial section that has easy to follow videos to learn the software. It is more cloud based than I’d like, however, and often I have to wait much longer for files to download or upload, or to process, than I’d have to if everything was done locally on my machine. There are also a number of headaches associated with organization, selection, snapping, and workflows that more polished and mature CAD/CAM software don’t suffer from. But ultimately it’s hard to beat free when the software is still able to get the job done.
 
 ## 96Boards Baseboard and Mezzanine
+
+The 96Boards used in this project was the [DragonBoard 410c](), which was paired with the Shiratech LTE mezzanine. 
+
+<img src="https://github.com/96boards/documentation/blob/master/consumer/dragonboard/dragonboard410c/additional-docs/images/images-board/sd/dragonboard410c-front-sd.jpg?raw=true" data-canonical-src="https://github.com/96boards/documentation/blob/master/consumer/dragonboard/dragonboard410c/additional-docs/images/images-board/sd/dragonboard410c-front-sd.jpg?raw=true" width="220" height="200" />
+<img src="https://github.com/96boards/website/blob/master/_product/mezzanine/shiratech-lte/images/shiratech-lte-front-sd.jpg?raw=true" data-canonical-src="https://github.com/96boards/website/blob/master/_product/mezzanine/shiratech-lte/images/shiratech-lte-front-sd.jpg?raw=true" width="220" height="200" />
 
 ***
 
