@@ -54,6 +54,8 @@ Internet:  WiFi would be nice to have for any laptops we bring for pulling up in
 
 ## Download STL files
 
+Visit The [STL file download section](stl-files/) to get access to all currently available V1 STL files.
+
 ***
 
 # 3D Printing
