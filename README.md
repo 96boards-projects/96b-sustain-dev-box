@@ -20,17 +20,17 @@
 
 # Introduction
 
-Robert and David are teaming up to demonstrate two projects that are enabled by the Arm Innovator Program.  The Solar-powered Mobile Developer Workstation is a project that places a 96Boards Arm single board computer, battery, solar charging unit, LCD panel, and standard electric sockets in to a suitcase-like enclosure that can be deployed anywhere.  With the addition of an LTE and sensor mezzanine, the device can remotely monitor environmental conditions, as well.  Adding further to the demo, miniNodes is placing a small carrier board inside the box that holds 5 Raspberry Pi Computer-on-Modules, that can add additional compute capacity and run small, specialized workloads or containers that can be remotely deployed to to the box.  This allows remote management and updating, even at extreme edge locations, as long as there is cellular coverage.  
+Robert Wolff, David Tischler and Gabriel Peterson teamed up to demonstrate two projects and excellent 3D printing and design that are enabled by the Arm Innovator Program and Shiratech / Arrow YVR18 Hackathon. The Solar-powered Mobile Developer Workstation is a project that places a 96Boards Arm single board computer, battery, solar charging unit, LCD panel, and standard electric sockets in to a suitcase-like enclosure that can be deployed anywhere.  With the addition of an LTE and sensor mezzanine, the device can remotely monitor environmental conditions, as well.  Adding further to the demo, miniNodes is placing a small carrier board inside the box that holds 5 Raspberry Pi Computer-on-Modules, that can add additional compute capacity and run small, specialized workloads or containers that can be remotely deployed to to the box.  This allows remote management and updating, even at extreme edge locations, as long as there is cellular coverage.  
 
 ***
 
 # Hardware
 
-Equipment supplied with demo:  The Mobile Developer Workstation will be entirely self contained.  Beyond that, perhaps we bring a few additional 96Boards SBC's and a few extra Raspberry Pi SoM's so people can pick up and examine them, mostly just as novelty items.
+Compute: The 96Boards DragonBoard 410c (or 96Boards equivalent) will act as the gateway to the entire system. Running Linux, and equipped with several peripheral and sensors, the hub will showcase a variety of applications while leaving the option open for almost an infinite amount of other use-cases.
 
-Power & sockets:  @Robert - how long do you expect the battery to last, I don't think we will get good charging through the solar panels indoors (unless we are near a window, ha)...Can we plug the unit directly into an electrical socket and run on regular power if need be? Other than that, maybe 2 or 3 sockets is all we need, for occasional laptop and cell phone charging.
+Power: The kit is capable of taking in two different power sources. For the purpose of this demo, there will be a 3A power supply and 2 x .65A solar panels. The panels will run in parallel providing upwards of 1.2A. The DC power supply is needed in the case of this demo, as in most cases it is showcased in doors. Either way, there are two power inputs and the system is capable of taking up to 20A at 12 or 24 volts.
 
-Internet: WiFi would be nice to have for any laptops we bring for pulling up info as requested by visitors, but, the demo box itself will actually be using 4G LTE, so we could survive without. 
+Connectivity: The Kit is equipped with its own 4G/LTE connection! Thanks to the Arrow/Shiratech LTE mezzanine, this kit is completely off the grid both power and connectivity. Event in a room with bogged down WiFi, the kit able to connect and use any LTE network. 
 
 ## Bill of Materials
 
@@ -127,6 +127,13 @@ Unfortunately, I did not have time to draft the schematic in a profesional CAD s
 
 # Pictures of the kit
 
-<img src="" data-canonical-src="" width="200" height="130" />
+![box1](/images/box-finish-running-panel.JPG)
+![box2](/images/box-finish-running.jpg)
+![box3](/images/box-finish-explain-booth.JPG)
+![box4](/images/box-finish-booth.JPG)
+![box5](/images/box-finish-w-panel.JPG)
+![box6](/images/box-top-finished.jpg)
+![box7](/images/box-top-bottom-empty-finished.JPG)
+![box8](/images/box-team.jpg)
 
 ***
