@@ -73,7 +73,15 @@ The 96Boards used in this project was the [DragonBoard 410c](), which was paired
 
 ## Preparing the box
 
+The box we chose to use was from Home Depot and required a few modification prior to measuring and preparing our designs. Some of the inside of the top of the box was gutted, and various inserts were disgarded to make sure we had enough space for all of our components.
+
+Once the box has been gutted and striped of excess inserts, we gathered our main components and began to structure our layout. It was very important for us to decide before hand, exactly where each part would sit. This made it easier for us to design the 3D parts which would later be inserted into the box. These 3D parts would not only serve as aesthetics, but also play a crucial role to the inner structure of the box. These parts would hold and protect the various electronics of the kit.
+
 ## Gathering main components
+
+The main components are listed in [Bill of Materials](#bill-of-materials) section; however, it is important to note, many of the components used in this kit might be considered a bit of "over kill". Especially when looking at the charge controller and inverter, many of the other components are not able to take advantage of the spec these parts can input/output. To this point, the kit can be looked at as a hub for a larger station, or simply the means to a future expansion.
+
+Either way, the components were chosen based on ease of access, cost, and funtionality. Most parts can be replaced with something less robust to either reduce the cost and/or weight and/or capabilities of the kit.
 
 ## Download STL files
 
@@ -91,16 +99,34 @@ I chose PLA to use as the filament for the prototype primarily for environmental
 
 # Wires switches contacts and more
 
+Cutting all the wires for this box (SO MANY) took a while. Not only that it was also very time consuming measuring and placing them according to the schematic.
+
 ***
 
 # Schematic review
+
+Unfortunately, I did not have time to draft the schematic in a profesional CAD software; however, I was able to take a picture and upload it here. In the future, I do plan to remake this schematic more professionally, and to provide the files open to the public.
 
 ***
 
 # Putting it all together
 
+1) Box is gutted and ready - Check!
+2) All major parts are measured and placed for reference
+3) Schematics are drawn
+1) All the parts are printed - Check!
+2) All the components are gathered - Check! 
+3) All the wires are cut and measured - Check!
+4) Connectors/Junctions are placed - Check!
+5) DragonBoard 410c is ready - Check!
+4) Shiratech LTE Mezzanine is reach - Check!
+4) 3D parts and components are placed - Check!
+4) Wired up - Check!
+
 ***
 
-# Conclusion
+# Pictures of the kit
+
+<img src="" data-canonical-src="" width="200" height="130" />
 
 ***
