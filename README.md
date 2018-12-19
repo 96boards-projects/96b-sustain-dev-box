@@ -125,6 +125,13 @@ Unfortunately, I did not have time to draft the schematic in a profesional CAD s
 
 ***
 
+# Videos
+
+[![Video 1](/images/video1.png)](https://youtu.be/uJPCyZ9XaC4)
+[![Video 2](/images/video2.png)](https://youtu.be/hHnEJb8CuWg)
+
+***
+
 # Pictures of the kit
 
 ![box1](/images/box-finish-running-panel.JPG)
